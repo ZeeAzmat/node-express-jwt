@@ -1,8 +1,8 @@
 {
-  "name": "api-design-v3",
+  "name": "node-express",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Scott Moss <willscottmoss@gmail.com>",
+  "author": "Zeeshan Azmat <zeeshanazmat56@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "babel src --out-dir dist",
